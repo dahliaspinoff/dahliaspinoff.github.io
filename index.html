@@ -1,16 +1,69 @@
 <!DOCTYPE html>
 <html>
 <body>
+  <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <p class="aligncenter">
 <img src="dahlia_logo1.jpg">
   </p>
-  <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
+ 
+
+    <title>Menu Dropdown</title>
+    <style>
+        /* Stile di base per il menu */
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        /* Stile del pulsante del menu */
+        .dropdown-button {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* Stile del contenitore del menu a discesa */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        /* Stile degli elementi del menu a discesa */
+        .dropdown-content a {
+            color: #333;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        /* Cambia il colore degli elementi del menu a discesa al passaggio del mouse */
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+        /* Mostra il menu a discesa quando si passa il mouse sul pulsante del menu */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="dropdown">
+        <button class="dropdown-button">Menu</button>
+        <div class="dropdown-content">
+            <a href="#">Elemento 1</a>
+            <a href="#">Elemento 2</a>
+            <a href="#">Elemento 3</a>
+        </div>
+    </div>
 </body>
 </html>

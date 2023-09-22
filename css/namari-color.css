@@ -22,27 +22,27 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:#2a9d8f;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#2a9d8f;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#2a9d8f;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background: #2a9d8f;
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:#2a9d8f;
 }
 
 
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #2a9d8f;
+    border-color: #2a9d8f;
 }    
 
 
@@ -279,8 +279,8 @@ h6 {
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#d2b356;
-    color:#d2b356;
+    border-color:#2a9d8f;
+    color:#2a9d8f;
 }
 
 
@@ -306,8 +306,8 @@ h6 {
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#d2b356;
-    border-color:#d2b356;
+    color:#2a9d8f;
+    border-color:#2a9d8f;
 }
 
 

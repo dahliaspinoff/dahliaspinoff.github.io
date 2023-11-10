@@ -329,7 +329,7 @@ section {
 
 /* --------- 2.2 Logo ---------- */
 
-#Cambiato anche questo
+/*--- #Cambiato anche questo ---*/
 #logo {
     float: left;
     height: 40px;
@@ -353,7 +353,7 @@ section {
     padding: 0;
 }
 
-#Cambiato questo
+/*--- #Cambiato anche questo ---*/
 #logo img {
     max-height: 40px;
     vertical-align: middle;

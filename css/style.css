@@ -888,7 +888,7 @@ h6 {
 
 .divider-inner {
     position: absolute;
-    height: 1px;
+    height: 10px;
     width: 100%;
     top: 50%;
     margin-top: -1px;
@@ -899,7 +899,7 @@ h6 {
 .divider i {
     background: #fff;
     position: relative;
-    top: -111px;
+    top: -11px;
     padding: 0 5px 0 5px;
     color: #e1e1e1;
 }

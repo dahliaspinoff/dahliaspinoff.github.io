@@ -1514,9 +1514,15 @@ blockquote {
     padding: 0;
 }
 
+
+/* --------- modificare qui per margini e font weight and color ---------- */
 #landing-footer p {
     margin: 0;
+    margin-top:30px;
     margin-left: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #fff;
 }
 
 #landing-footer ul {

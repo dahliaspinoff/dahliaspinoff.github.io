@@ -319,11 +319,11 @@ h6 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:12px;
     font-weight:normal;
-    color:#264;
+    color:#999;
 }
 
 /* Footer Icon Color */
 
 #landing-footer i {
-    color:#264;
+    color:#999;
 }

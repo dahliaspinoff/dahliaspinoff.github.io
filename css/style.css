@@ -1499,7 +1499,7 @@ blockquote {
 /* 7. Footer */
 /*------------------------------------------------------------------------------------------*/
 
-/* --------- aggiunto questo ---------- */
+/* --------- Qui per modificare il colore di background di footer ---------- */
 #landing-footer {
     background: #667f7f;
     padding: 25px;
@@ -1515,13 +1515,13 @@ blockquote {
 }
 
 
-/* --------- modificare qui per margini e font weight and color ---------- */
+/* --------- modificare qui per margini, stile e colore del testo in p ---------- */
 #landing-footer p {
     margin: 0;
     margin-top:30px;
     margin-left: 30px;
     margin-bottom: 30px;
-    font-weight: bold;
+    font-weight: medium;
     color: #fff;
 }
 

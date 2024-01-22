@@ -1499,6 +1499,13 @@ blockquote {
 /* 7. Footer */
 /*------------------------------------------------------------------------------------------*/
 
+/* --------- aggiunto questo ---------- */
+#landing-footer {
+    background: #667f7f;
+    padding: 25px;
+    position: relative;
+}
+
 #landing-footer {
     clear: both;
 }

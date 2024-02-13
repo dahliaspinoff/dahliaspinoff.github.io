@@ -768,6 +768,22 @@ h6 {
     padding-top: 0;
 }
 
+.section-heading h1 {
+    font-size: 84px;
+    font-weight: bold;
+    color: #ccc;
+    letter-spacing: 2px;
+    padding-bottom: 0;
+}
+
+.section-heading h2 {
+    font-size: 74px;
+    font-weight: bold;
+    color: #ccc;
+    letter-spacing: 2px;
+    padding-bottom: 0;
+}
+
 .section-heading h3 {
     font-size: 14px;
     font-weight: bold;

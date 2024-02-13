@@ -1506,7 +1506,7 @@ blockquote {
 
 /* --------- Qui per modificare il colore di background di footer ---------- */
 #landing-footer {
-    background: #2a9d8f;
+    background: #3589A1;
     padding: 25px;
     position: relative;
 }
@@ -1527,7 +1527,7 @@ blockquote {
     margin-left: 30px;
     margin-bottom: 30px;
     font-weight: medium;
-    color: #fff;
+    color: #fffeef;
 }
 
 #landing-footer ul {

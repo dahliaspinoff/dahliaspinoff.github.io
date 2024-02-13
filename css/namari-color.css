@@ -22,17 +22,17 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#2a9d8f;
+    color:#3589A1;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#2a9d8f;
+    color:#3589A1;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#2a9d8f;
+    color:#3589A1;
 }
 
 /* Border Color */
@@ -42,7 +42,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .pricing-block-content:hover {
-    border-color:#2a9d8f;
+    border-color:#3589A1;
 }
 
 
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #2a9d8f;
-    border-color: #2a9d8f;
+    color: #3589A1;
+    border-color: #3589A1;
 }    
 
 
@@ -82,7 +82,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:#2a9d8f;
+    background-color:#3589A1;
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#2a9d8f;
+    background:#3589A1;
     content:"";
     display:block;
     width:30px;
@@ -279,8 +279,8 @@ h6 {
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#2a9d8f;
-    color:#2a9d8f;
+    border-color:#3589A1;
+    color:#3589A1;
 }
 
 
@@ -306,8 +306,8 @@ h6 {
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#2a9d8f;
-    border-color:#2a9d8f;
+    color:#3589A1;
+    border-color:#3589A1;
 }
 
 

@@ -129,6 +129,12 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 
+#about {
+    background: url("../images/Banner_back_due.png") no-repeat center top;
+    background-size:cover;
+}
+    
+
 /*------------------------------------------------------------------------------------------*/
 /* 5. Typography */
 /*------------------------------------------------------------------------------------------*/

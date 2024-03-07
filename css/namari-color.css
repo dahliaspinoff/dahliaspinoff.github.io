@@ -89,6 +89,7 @@ a:hover, #header.nav-solid nav a:hover {
     color:#fff;    
 }
 
+/*
 .section-heading h2:after {
     background:#3589A1;
     content:"";
@@ -97,6 +98,7 @@ a:hover, #header.nav-solid nav a:hover {
     height:5px;
     margin-top:30px;
 }
+*/
 
 .text-center .section-heading h2:after {
     margin:30px auto 25px auto;

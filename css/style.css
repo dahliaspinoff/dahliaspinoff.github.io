@@ -88,11 +88,13 @@ figure {
     pointer-events: none;
 }
 
+/* background: #f3f3ef;  */
+
 .page-border .bottom-border, .page-border .left-border, .page-border .right-border, .page-border .top-border {
-    background: #f3f3ef;
     position: fixed;
     z-index: 9999;
 }
+
 
 .page-border > .top-border, .page-border > .right-border, .page-border > .bottom-border, .page-border > .left-border {
     padding: 11px;

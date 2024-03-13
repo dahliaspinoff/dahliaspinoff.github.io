@@ -817,6 +817,29 @@ h6 {
 
 /* --------- 5.1 Icons ---------- */
 
+.icone-descrizioni {
+  text-align: center;
+}
+
+.contenitore-icone {
+  display: flex;
+  flex-direction: column;
+}
+
+.riga-icone {
+  display: flex;
+  justify-content: space-around;
+}
+
+.icona {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
 /*Font Icon sizes*/
 
 .fa-1x {
